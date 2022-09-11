@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "O4gbvtAfM2uS6w8jkboHcGkDYyOqan1mGe1HQazVe63es3Bu6ZwDJiS6FyOfxBtinHXGyFGEBtUsiRc5sIjYaA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rahul\\Downloads\\Cognizant intership\\Azure\\azure7\\azure7\\azure7.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rahul\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512"
+  ],
+  "logs": []
+}
